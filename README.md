@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CcccKaaaa
-- 👀 I’m interested in making BOT
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Fullstack team
+- 👋 Hi, I’m Charlie Luong
+- 👀 I’m interested in Development
+- 🌱 I’m currently is an Odoo developer
+- 💞️ I’m looking to collaborate on Fullstack team and willing to learn new tech
 - 📫 How to reach me chuonglm2012@gmail.com
 
 <!---
